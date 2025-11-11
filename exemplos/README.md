@@ -28,7 +28,6 @@ Atue como um especialista em inteligência artificial e ajude-me a estruturar um
 futuristic book cover about artificial intelligence, cyberpunk style, neural networks visualization, digital art, professional design
 ```
 
-
 2. **Capítulo 1:**
 ```text
 artificial intelligence awakening, robot becoming conscious, digital brain activation, sci-fi art style, cinematic lighting
@@ -55,43 +54,13 @@ future of artificial intelligence, futuristic city with AI integration, technolo
 ```
 
 **Configurações do Leonardo AI:**
-- Modelo: Leonardo Diffusion
-- Dimensões: 1024x1024
-- Estilo: Cinematic
-- Iterações: 4 por imagem
-
-### **Fase 3: Montagem Final no Libre Office**
-
-**Processo de Edição:**
-1. **Configuração do documento**
-- Páginas: A4
-- Margens: 2.5cm
-- Fonte: Liberation Sans 11pt
-
-2. **Estruturação do conteúdo**
-- Capa com imagem principal
-- Índice automático
-- Capítulos com imagens ilustrativas
-- Formatação consistente
-
-3. **Design e layout**
-- Alinhamento justificado
-- Espaçamento entre linhas: 1.15
-- Títulos em negrito
-- Imagens centralizadas com legendas
-
-4. **Exportação final**
-- Formato: PDF
-- Qualidade: Alta
-- Metadados incluídos
+- Mantive as configurações do modelo gratuito
 
 ## 📊 Métricas do Projeto
 
 | Item | Quantidade |
 |------|------------|
-| Páginas do e-book | 5 |
-| Palavras totais | 1,247 |
-| Imagens geradas | 6 |
+| Imagens geradas | 5 |
 | Horas de produção | 4 |
 | Ferramentas utilizadas | 3 |
 
