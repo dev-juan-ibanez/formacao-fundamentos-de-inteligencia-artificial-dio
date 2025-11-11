@@ -18,6 +18,12 @@ Como parte da formação em IA da DIO, este projeto me desafiou a:
 formacao-fundamentos-de-inteligencia-artificial-dio/
 │
 ├── exemplos/
+│ ├── images # Images geradas por IA
+│ ├── ├── cap-1.jpg #imagem cap 1
+│ ├── ├── cap-2.jpg #imagem cap 2
+│ ├── ├── cap-3.jpg #imagem cap 3
+│ ├── ├── cap-4.jpg #imagem cap 4
+│ ├── └── cap-5.jpg #imagem cap 5
 │ ├── E-BOOK.md # E-book completo sobre IA Generativa
 │ └── README.md # Documentação do processo criativo
 │
@@ -45,7 +51,7 @@ Na pasta [`exemplos`](/exemplos/) você encontra um e-book completo que desenvol
 ## 👨‍💻 Autor
 
 **Juan Ibanez**  
-Estudante da Formação Fundamentos de Inteligência Artificial - DIO
+Formação Fundamentos de Inteligência Artificial - DIO
 
 ---
 
